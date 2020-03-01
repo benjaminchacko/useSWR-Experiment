@@ -1,0 +1,16 @@
+# Experiment with useSWR Hook
+### Language(s): React JS
+
+This repository is a experiment using useSWR custom hook from ZEIT.
+
+## Important Features:
+* Parcel Bundler
+* Babel to use latest ES6 functions
+* [React Fragments](https://reactjs.org/docs/fragments.html)
+* Custom useSWR Hook from ZEIT: [useSWR Docs](https://swr.now.sh/)
+  
+## How to Use
+1. Fork this repository
+2. Clone to your local machine
+3. `npm install` in your terminal to install node-modules
+4. `npm start` to open development in your browser
